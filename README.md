@@ -85,7 +85,7 @@ Key findings:
 
 ## Authors
 
-** Yousef Qaisi **
+**Yousef Qaisi**
 AI Student
 
 
